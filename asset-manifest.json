@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ihubtalent-react/static/css/main.479e107a.css",
+    "main.js": "/ihubtalent-react/static/js/main.67c16721.js",
+    "static/media/card4.png": "/ihubtalent-react/static/media/card4.b81107bfef4479a28400.png",
+    "static/media/card6.png": "/ihubtalent-react/static/media/card6.5e629babd3b37e55ba72.png",
+    "static/media/card3.png": "/ihubtalent-react/static/media/card3.82b9948ccfc22c397545.png",
+    "static/media/card1.png": "/ihubtalent-react/static/media/card1.fbafca83c9c2ab89de29.png",
+    "static/media/card2.png": "/ihubtalent-react/static/media/card2.42dfac1a63fd2cdd6649.png",
+    "static/media/card5.png": "/ihubtalent-react/static/media/card5.cd1206814ba2c3dd9e1f.png",
+    "static/media/rocket.svg": "/ihubtalent-react/static/media/rocket.c3140172d3473deb7f9b3c989e89cc15.svg",
+    "index.html": "/ihubtalent-react/index.html",
+    "main.479e107a.css.map": "/ihubtalent-react/static/css/main.479e107a.css.map",
+    "main.67c16721.js.map": "/ihubtalent-react/static/js/main.67c16721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479e107a.css",
+    "static/js/main.67c16721.js"
+  ]
+}
